@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">musicPlayerService_appB</string>
+    <string name="stop_foreground">Stop Music</string>
+</resources>
